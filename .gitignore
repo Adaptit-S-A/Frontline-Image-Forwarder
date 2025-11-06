@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#Environment file
+env.py
+
 # C extensions
 *.so
 
